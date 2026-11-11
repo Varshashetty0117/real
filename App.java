@@ -4,6 +4,6 @@ public class App {
     }
 
     public static void main(String[] args) {
-        System.out.println("80 + 90 = " + add(80, 90));
+        System.out.println("700 + 90 = " + add(700, 90));
     }
 }
